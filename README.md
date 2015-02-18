@@ -1,5 +1,4 @@
-# GIS-Tasks
-My GIS Assignements
+# My GIS Assignements
 ---------------------
 ### List of tasks hosted on Github.io :
 
